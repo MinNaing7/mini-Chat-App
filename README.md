@@ -1,6 +1,6 @@
 # miniChat Vue Application
 
-This Project is created with Vue, Tailwind & Firebase. This is my very first project using Vue. You can see my application here. [minichat Vue Application](https://project-testing-a0b64.web.app/).
+This Project is created with Vue, Tailwind & Firebase. This is my very first project using Vue. I created this project in 2022 December. Before I write code, I designed the UI Screen & made prototype with Figma. You can watch my prototype images below & you can visit my actual Web Application here. [minichat Vue Application](https://project-testing-a0b64.web.app/).
 
 ## Project setup
 ```
