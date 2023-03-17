@@ -1,4 +1,4 @@
-# project-testing
+# miniChat Vue Application
 
 ## Project setup
 ```
@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Deployed Link
+See [minichat Vue Application](https://project-testing-a0b64.web.app/).
